@@ -1,4 +1,4 @@
-package ru.lantimat.testappvk.utils;
+package ru.lantimat.testappvk.utils.imageLoadHelper;
 
 /*
  * Copyright (C) 2011 The Android Open Source Project
